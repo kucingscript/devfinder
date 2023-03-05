@@ -1,6 +1,6 @@
 const Center = ({ data: { bio, public_repos, followers, following } }) => (
   <>
-    <p className="text-center sm:pb-6 pb-0">{bio}</p>
+    <p className="text-center sm:text-base text-sm sm:pb-6 pb-0">{bio}</p>
     <div className="grid grid-cols-3 text-center py-8">
       <div>
         <h1 className="repo">Repos</h1>

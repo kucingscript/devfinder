@@ -14,7 +14,7 @@ const Main = ({ input }) => {
   }, [data]);
 
   return (
-    <main className="bg-grayishBlue min-h-full mt-6 px-4 sm:px-10 py-12 text-lightCyan rounded-md">
+    <main className="bg-grayishBlue min-h-full my-6 px-4 sm:px-10 py-12 text-lightCyan rounded-md">
       <div className="flex flex-col sm:flex-row w-full justify-center gap-x-6">
         <Top data={data} />
       </div>
