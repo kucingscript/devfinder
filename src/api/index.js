@@ -1,7 +1,7 @@
 export const getUser = async (user) => {
   try {
     const response = await fetch(
-      `https://api.github.com/users/${user || `rasyidzkun`}`
+      `https://api.github.com/users/${user || `kucingscript`}`
     );
     const result = await response.json();
 

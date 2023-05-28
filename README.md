@@ -1,6 +1,6 @@
 # DevFinder
 
-Tool used to find your github profile
+Program to find your github profile
 
 ## Built with
 
