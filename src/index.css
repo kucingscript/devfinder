@@ -6,7 +6,7 @@
 
 @layer base {
   body {
-    @apply font-poppins bg-darkGrayishBlue flex justify-center items-center;
+    @apply font-poppins bg-darkGrayishBlue flex justify-center items-center min-h-screen;
   }
 
   .info {
